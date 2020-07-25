@@ -1,4 +1,4 @@
-# Run zsh container And Delete old docker Container  
+# Run zsh New Container And Delete Old docker Container  
 sh run_zsh_container.sh  
 docker exec -it zsh zsh  
   
