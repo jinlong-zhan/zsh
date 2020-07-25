@@ -31,9 +31,9 @@
 # For example:
 #   sh install.sh --unattended
 #
+
 apt-get update ; \
 apt-get -y install vim git curl
-
 
 set -e
 
